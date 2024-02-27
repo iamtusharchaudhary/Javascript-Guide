@@ -23,3 +23,13 @@
 > Integrity: The integrity attribute provides a security feature that allows you to specify a cryptographic hash of the script file. This ensures that the script is not modified or tampered with during delivery.
 
 > crossorigin: The crossorigin attribute is used when loading scripts from different domains. It controls whether the script can access resources from a different origin.
+
+## Script Tag Attribute Example
+
+```<script src="app.js"></script>
+<script src="app.js" type="text/javascript"></script>
+<script src="module.js" type="module"></script>
+<script src="app.js" async></script>
+<script src="app.js" defer></script>
+<script src="app.js" integrity="sha384-hash"></script>
+<script src="app.js" crossorigin="anonymous"></script>```
