@@ -33,3 +33,7 @@
 <script src="app.js" defer></script>
 <script src="app.js" integrity="sha384-hash"></script>
 <script src="app.js" crossorigin="anonymous"></script>```
+
+
+# About Console
+Console is a built-in object that provides a way to interact with the browser's debugging console or the terminal console (in Node.js). It provides a set of methods that allow developers to output information, such as log messages, warnings, errors, and other debugging information.
