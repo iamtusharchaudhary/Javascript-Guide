@@ -1,8 +1,3 @@
-1.  This Js file is attached in your html file then you give your output.
-2.  In my html file this file is already attached at bottom.  
-
-    <script src="text.js"></script> ( This is file name )
-
 const obj={
     name: "tushar",
     course: "Full Stack",
