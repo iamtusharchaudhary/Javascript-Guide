@@ -1,10 +1,26 @@
-javascript Loops
-while :
+# Javascript Loops
 
-do while
+> while 
 
-for
+> do while
 
-for in
+> for
 
-for of
+> for in
+
+> for of
+```
+<script>
+        const persons = [
+            { name: 'John', age: 30, job: 'developer' },
+            { name: 'Jane', age: 25, job: 'designer' },
+            { name: 'Bob', age: 35, job: 'manager' }
+        ];
+
+        for (let person in persons) {
+            // console.log(person.name, person.age, person.job);
+            console.log(persons[person].name);
+        }
+
+    </script>
+```
