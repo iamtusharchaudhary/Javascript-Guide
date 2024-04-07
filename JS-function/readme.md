@@ -6,11 +6,19 @@ Functions are a fundamental concept in JavaScript, and they play a role in struc
 (parameter1, parameter2, ...)
 
 # Syntax of Function
+```
+function name(){
+    
+    // block of statement
+
+}
+
+//////////////////////////////
 
 function name(parameter1, parameter2, parameter3) {
   // code to be executed
 }
-
+```
 # Function Type
 
 > Pre Define Function Ex. log() , write() , map()
@@ -30,3 +38,15 @@ function name(parameter1, parameter2, parameter3) {
 > Return The Value
 
 > Multiple Return With Array And Object
+
+# Adnvance ES6
+
+> Anontmous Function
+
+> Arrow Function
+
+# Call The function 😊
+
+> name();
+
+> IFFE
