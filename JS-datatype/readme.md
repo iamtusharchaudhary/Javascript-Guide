@@ -1,6 +1,6 @@
 # JavaScript Data Type
 
-Primitive Data Types:
+### Primitive Data Types:
 
 > Number: Represents numeric values. It can be an integer or a floating-point number.
 
@@ -14,10 +14,10 @@ Primitive Data Types:
 
 > Symbol: Represents a unique and immutable value that can be used as an identifier for object properties.
 
-Complex Data Types:
+### Complex Data Types:
 
 > Array: Represents an ordered list of values. Arrays can contain any combination of data types and are created using square brackets [ ].
 
 > Object: Represents a collection of key-value pairs and is used to store more complex data. Objects can be created using the new Object( ) syntax or object literals { }.
 
-Function: Represents a reusable block of code that performs a specific task. Functions can be defined using the function keyword or as arrow functions (( ) => { }).
+> Function: Represents a reusable block of code that performs a specific task. Functions can be defined using the function keyword or as arrow functions (( ) => { }).
