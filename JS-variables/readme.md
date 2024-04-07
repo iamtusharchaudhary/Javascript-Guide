@@ -11,8 +11,7 @@ const: const is also introduced in ES6 and has block scope like let. However, co
 ### let
 
 let: let was introduced in ECMAScript 6 (ES6) and has block scope. Variables declared with let are limited to the block in which they are declared (e.g., inside a loop or if statement). They are not hoisted like var variables, so you must declare them before using them. let variables can be reassigned but not redeclared within the same scope.
-
-///////////////////////////////////////////////
+```
 var data = 1;
 console.log(data);
 {
@@ -36,3 +35,4 @@ console.log(data2);
     console.log(data2);
 }
 console.log(data2);
+```
