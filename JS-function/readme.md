@@ -4,3 +4,29 @@ Functions are a fundamental concept in JavaScript, and they play a role in struc
 > A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 > The parentheses may include parameter names separated by commas:
 (parameter1, parameter2, ...)
+
+# Syntax of Function
+
+function name(parameter1, parameter2, parameter3) {
+  // code to be executed
+}
+
+# Function Type
+
+> Pre Define Function Ex. log() , write() , map()
+
+> User Define function
+
+# Function Rules 💬
+
+> Define The Function
+
+> Call The Function
+
+> Passing The Argument
+
+> Setting Default Value Parameter
+
+> Return The Value
+
+> Multiple Return With Array And Object
