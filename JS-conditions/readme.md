@@ -42,7 +42,7 @@ else{
 Use the else if statement to specify a new condition if the first condition is false.
 
 ## syntax:-
-
+```
 if(condition){
 
    //  block of code to be executed if the condition is true
@@ -58,3 +58,12 @@ else{
    //  block of code to be executed if the both condition is false
    
 }
+```
+
+# Conditional Statements With Operators
+
+> &
+
+> |
+
+> !
