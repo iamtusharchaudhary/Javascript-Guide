@@ -60,6 +60,23 @@ else{
 }
 ```
 
+# switch statement
+
+The switch statement is used to perform different actions based on different conditions.
+
+## syntax
+```
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+```
 # Conditional Statements With Operators
 
 > &
@@ -67,3 +84,15 @@ else{
 > |
 
 > !
+```
+else{
+    if(user[0]==userEmail & user[1]==userPass){
+        res="Welcome";
+    }
+    else{
+        res="Id Password Do Not Match";
+
+    }
+}
+console.log(res);
+```
