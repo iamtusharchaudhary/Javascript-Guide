@@ -6,7 +6,7 @@
 ```
  class Application {
     // gobal variable type
-    name = "Ducat India";
+    name = "Tushar Chaudhary";
     //method
 
     constructor() {
@@ -19,8 +19,6 @@
 }
 
 let app = new Application;
-
-
 console.log(app);
 console.log(app.name);
 console.log(app.hello());
