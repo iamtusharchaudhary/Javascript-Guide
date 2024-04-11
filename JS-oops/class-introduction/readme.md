@@ -1,6 +1,8 @@
 # Class and Objects
 
-> Classes are user-defined data types that act as the blueprint for individual objects, attributes and methods.
+<ul>
+    <li>Classes are user-defined data types that act as the blueprint for individual objects, attributes and methods.</li>
+</ul>
 
 > Objects are instances of a class created with specifically defined data. Objects can correspond to real-world objects or an abstract entity.
 
