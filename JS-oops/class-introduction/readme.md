@@ -3,8 +3,7 @@
 <ul>
     <li><h3>Classes are user-defined data types that act as the blueprint for individual objects, attributes and methods.<h3/></li>
 </ul>
-
-> Objects are instances of a class created with specifically defined data. Objects can correspond to real-world objects or an abstract entity.
+<ul><li><h3>Objects are instances of a class created with specifically defined data. Objects can correspond to real-world objects or an abstract entity.</h3></li></ul> 
 
 ```
 class Welcome{
