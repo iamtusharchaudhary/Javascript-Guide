@@ -5,13 +5,14 @@
 </ul>
 <ul><li><h3>Objects are instances of a class created with specifically defined data. Objects can correspond to real-world objects or an abstract entity.</h3></li></ul> 
 
+
 ```
 class Welcome{
-    uname = "Punit";
-    uemail = "punit.kat@gmail.com";
+    uname = "Tushar";
+    uemail = "tushar@gmail.com";
     #upass = 123456;
     arr = ["html", 'css', 'javascript'];
-    obj = { data1: "HTML 5", data2: "CSS 3", data3: 'jquery' };
+    obj = { data1: "HTML 5", data2: "CSS 3", data4: 'jquery' };
     hello(title) {
         return (`${title} ${this.uname}`); 
     }
@@ -28,8 +29,8 @@ console.log(app.obj.data1);
 console.log(app.hello('Welcome to Function inside the class'));
 
 
-
 ////////////////////////////////////////////////////////////////////
+
 
 // basic function
 // function hello() {
