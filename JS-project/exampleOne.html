@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            box-sizing: border-box;
+            cursor: pointer;
+        }
+        .banner{
+            height: 70vh;
+            width: 80%;
+            background-color: yellowgreen;
+            margin: 5% auto;
+        }
+        .ul-1{
+            list-style: none;
+            display: flex;
+            /* flex-wrap: wrap; */
+            gap: 5%;
+        }
+        .li-1{
+            border: 2px solid black;
+            padding: 1% 1%;
+            border-radius: 70%;
+            background-color: whitesmoke;
+            height: 6vh;
+            width: 8%;
+        }
+        .tushar{
+            text-align: center;
+            text-transform: capitalize;
+
+        }
+        #tr{background-color: red;}
+        #trr{background-color: green;}
+        #trrr{background-color: blue;}
+        #trrrr{background-color: pink;}
+    </style>
+</head>
+<body>
+    <div id="mahadev" class="banner">
+        <ul class="ul-1">
+
+
+<!--           After click on list then change the background colour -->
+
+
+            <li id="tr" onclick="document.getElementById('mahadev').style.backgroundColor='red'" class="li-1 tushar">red</li>
+            <li id="trr" onclick="document.getElementById('mahadev').style.backgroundColor='green'" class="li-1 tushar">Green</li>
+            <li id="trrr" onclick="document.getElementById('mahadev').style.backgroundColor='blue'" class="li-1 tushar">Blue</li>
+            <li id="trrrr" onclick="document.getElementById('mahadev').style.backgroundColor='pink'" class="li-1 tushar">Pink</li>
+        </ul>
+    </div>
+</body>
+</html>
