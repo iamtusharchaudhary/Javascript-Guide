@@ -1,0 +1,14 @@
+{
+  "name": "tak",
+  "version": "1.0.0",
+  "description": "This is sample for creating server using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar Chaudhary",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
