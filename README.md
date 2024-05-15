@@ -43,4 +43,6 @@ Console is a built-in object that provides a way to interact with the browser's 
 console.error(): Outputs an error message to the console.
 console.warn(): Outputs a warning message to the console.
 console.info(): Outputs an informational message to the console.
-console.table(): Outputs data as a table in the console```
+console.table(): Outputs data as a table in the console
+console.log(): Output a message to the console.
+```
