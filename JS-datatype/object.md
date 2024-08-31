@@ -1,4 +1,4 @@
-
+```
 // type 1
 const obj = {
 
@@ -9,12 +9,14 @@ const obj = {
 }
 console.log(obj);
 
+
 // type 2
 const user = {};
 user.id = 1;
-user.name = "Punit";
+user.name = "Tushar";
 user.year = 2023;
 console.log(user);
+
 
 // type 3
 
@@ -23,3 +25,5 @@ card.id = 101;
 card.name = "Admin";
 card.year = 2023;
 console.log(card);
+
+```
