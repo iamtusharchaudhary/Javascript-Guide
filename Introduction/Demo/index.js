@@ -32,12 +32,12 @@ const app=function tata1(){
 console.log(app());
 
 // function 3rd pattern
-const takla=()=>"welcome to java script"
-console.log(takla());
+const anotherFunction=()=>"welcome to java script"
+console.log(anotherFunction());
 
 // Array
-let hnji=[22,33,55,67,89,909,0]
-console.log(typeof hnji);
+let someNumbers=[22,33,55,67,89,909,0]
+console.log(typeof someNumbers);
 //ffrhg
 let number= '1 2 4 6 7 8 9 77 8 9';
 console.log(number);
