@@ -1,4 +1,4 @@
-
+```
 // type 1
 const obj = {
 
@@ -23,3 +23,5 @@ card.id = 101;
 card.name = "Admin";
 card.year = 2023;
 console.log(card);
+
+```
