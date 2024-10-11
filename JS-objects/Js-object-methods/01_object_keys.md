@@ -10,7 +10,7 @@ const obj1 = {
     isLoggedIn: false
 }
 
-const key = Object.values(obj1)
+const key = Object.keys(obj1)
 
 console.log(key);
 
