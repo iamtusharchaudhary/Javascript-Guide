@@ -1,6 +1,6 @@
 
 ```
-In this only keys will bw shown on the output screen
+// In this only keys will bw shown on the output screen
 
 const obj1 = {
     name: "Tushar",
