@@ -1,5 +1,6 @@
 ```
 // type 1
+
 const obj = {
 
     uid: 101,
@@ -10,6 +11,7 @@ const obj = {
 console.log(obj);
 
 // type 2
+
 const user = {};
 user.id = 1;
 user.name = "Tushar";
