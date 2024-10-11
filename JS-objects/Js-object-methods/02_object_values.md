@@ -1,6 +1,6 @@
 
 ```
-// In this only values will be showen on the output screen...
+// In this only values will be shown on the output screen...
 
 const obj1 = {
     name: "Tushar",
