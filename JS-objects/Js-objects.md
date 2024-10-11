@@ -4,16 +4,16 @@ const obj = {
 
     uid: 101,
     uname: "Admin",
-    uemail: "admin@techunit.com",
-    year: 2023   
+    uemail: "admin@google.com",
+    year: 2024   
 }
 console.log(obj);
 
 // type 2
 const user = {};
 user.id = 1;
-user.name = "Punit";
-user.year = 2023;
+user.name = "Tushar";
+user.year = 2024;
 console.log(user);
 
 // type 3
@@ -21,7 +21,7 @@ console.log(user);
 const card = new Object();
 card.id = 101;
 card.name = "Admin";
-card.year = 2023;
+card.year = 2024;
 console.log(card);
 
 ```
