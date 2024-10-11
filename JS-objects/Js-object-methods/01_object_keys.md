@@ -1,3 +1,5 @@
+In this only keys will bw shown on the output screen
+
 ```
 
 const obj1 = {
