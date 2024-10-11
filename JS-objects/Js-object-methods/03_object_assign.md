@@ -1,5 +1,6 @@
 
 ```
+// In this both of the objects are merged together...
 
 const obj1 = {
     name: "Tushar",
@@ -14,7 +15,7 @@ const obj2 = {
     number: 7
 }
 
-const obj3 = Object.assign(obj1 , obj2)
+const obj3 = Object.assign({}, obj1 , obj2)
 
 console.log(obj3);
 
